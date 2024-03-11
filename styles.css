@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#color-box {
+    width: 200px;
+    height: 200px;
+    background-color: #3498db;
+    margin: 20px auto;
+}
+
+#change-color-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
